@@ -51,7 +51,11 @@ A command-line exam scheduling system with full CRUD functionality.
 Enter your choice (1-5): 1
 
 --- ADD NEW EXAM ---
+
+
 Enter exam name: Final Exam
+
+
 Enter date (YYYY-MM-DD): 2025-12-15
 Enter time (HH:MM): 09:00
 Enter room number: ACB203

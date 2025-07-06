@@ -50,8 +50,6 @@ A command-line exam scheduling system with full CRUD functionality.
 
 Enter your choice (1-5): 1
 
---- ADD NEW EXAM ---
-
 
 Enter exam name: Final Exam
 

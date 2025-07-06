@@ -57,8 +57,13 @@ Enter exam name: Final Exam
 
 
 Enter date (YYYY-MM-DD): 2025-12-15
+
+
 Enter time (HH:MM): 09:00
+
+
 Enter room number: ACB203
+
 
 Success: Exam 'Final Calculus Exam' added to schedule!
 

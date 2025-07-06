@@ -63,7 +63,6 @@ Enter time (HH:MM): 09:00
 Enter room number: ACB203
 
 
-Success: Exam added successfully!
 
 Exam: Final Calculus Exam
 Date: 2025-12-15

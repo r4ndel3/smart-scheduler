@@ -51,7 +51,7 @@ A command-line exam scheduling system with full CRUD functionality.
 Enter your choice (1-5): 1
 
 
-Enter exam name: Final Exam
+Enter exam name: Final Calculus Exam
 
 
 Enter date (YYYY-MM-DD): 2025-12-15
@@ -63,7 +63,7 @@ Enter time (HH:MM): 09:00
 Enter room number: ACB203
 
 
-Success: Exam 'Final Calculus Exam' added to schedule!
+Success: Exam added successfully!
 
 Exam: Final Calculus Exam
 Date: 2025-12-15
